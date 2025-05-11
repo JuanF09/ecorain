@@ -98,7 +98,7 @@ body {
 
 /* Hero Section Mejorado */
 .hero {
-    background: linear-gradient(120deg, #2196f3 0%, #43a047 100%), url('logo.png') no-repeat right bottom;
+    background: linear-gradient(120deg, #2196f3 0%, #43a047 100%), url('logo_fondo.png') no-repeat right bottom;
     background-size: cover, 200px;
     background-position: center, right 2rem bottom 2rem;
     min-height: 90vh;
